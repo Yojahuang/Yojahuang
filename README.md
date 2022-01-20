@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+MY name is You-Jia Huang, I'm currently studing computer science at NYCU.
+
 <!--
 **Yojahuang/Yojahuang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
