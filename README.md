@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-MY name is You-Jia Huang, I'm currently studing computer science at NYCU.
+MY name is You-Jia Huang, I'm currently studying computer science at NYCU.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
