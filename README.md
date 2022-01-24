@@ -2,12 +2,8 @@
 
 MY name is You-Jia Huang, I'm currently studying computer science at NYCU.
 
-
-![](https://github-readme-stats.vercel.app/api?username=yojahuang&theme=nord&show_icons=true)
-
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yojahuang&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yojahuang&theme=github_dark)
-
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yojahuang&theme=github_dark)
 
 <!--
