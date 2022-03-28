@@ -3,6 +3,7 @@
 My name is You-Jia Huang, I’m majoring in Computer Science at National Yang Ming Chiao Tung University (Was called NCTU) in Taiwan as a second year student.
 
 - [LinkedIn](https://www.linkedin.com/in/you-jia-huang-6319111b8/)
+- [Codeforces](https://codeforces.com/profile/RosaRosa)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yojahuang&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yojahuang&theme=github_dark)
