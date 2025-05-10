@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is You-Jia Huang, I’m majoring in Computer Science at National Yang Ming Chiao Tung University (Was called NCTU) in Taiwan as a junior year student.
+My name is You-Jia Huang, I'm looking for changes to broaden my skillset in various field!
 
 - [LinkedIn](https://www.linkedin.com/in/you-jia-huang-6319111b8/)
 - [Codeforces](https://codeforces.com/profile/RosaRosa)
